@@ -1,0 +1,16 @@
+.btn {
+  display: inline-block;
+  padding: .55rem 2rem;
+  background-color: #f4f4f4;
+  color: rgb(141, 133, 133);
+  border: 1px solid#333;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.bottom-line {
+  width: 13rem;
+  height: 1px;
+  background: #ccc;
+  margin:1rem 0;
+}
